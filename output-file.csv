@@ -1,0 +1,4 @@
+name,amount_A,amount_B,amount_C,number
+bar1,40.0,10.0,0.0,3
+bar3,10.0,0.0,0.0,4
+bar1,0.0,10.0,0.0,4
